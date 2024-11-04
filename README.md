@@ -38,7 +38,8 @@ Additional points of focus include the robustness of authentication flows, token
 
 #### Description
 
-The World Developer Portal contains a set of tools to enable developers build and manage integrations with World ID (external applications) and World App (Mini Apps). Developers can use the developer portal to manage incognito actions, external applications and Mini Apps,  or use the simulator to debug their integrations. Additionally, the Developer Portal provides a public REST API to facilitate verification of Zero Knowledge Proofs, retrieval of JWK keys for JSON signature verification and retrieval of metadata for incognito actions. Add link https://docs.world.org/world-id
+The World Developer Portal contains a set of tools to enable developers build and manage integrations with World ID (external applications) and World App (Mini Apps). Developers can use the developer portal to manage incognito actions, external applications and Mini Apps,  or use the simulator to debug their integrations. Additionally, the Developer Portal provides a public REST API to facilitate verification of Zero Knowledge Proofs, retrieval of JWK keys for JSON signature verification and retrieval of metadata for incognito actions. Additional documentation is avaliable [here](https://docs.world.org/world-id).
+
 
 #### Areas to explore
 
